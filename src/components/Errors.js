@@ -41,6 +41,7 @@ class Errors extends Component {
 
     typeError() {
         null.f();
+        //edit typeerror
     }
 
     syntaxError() {
